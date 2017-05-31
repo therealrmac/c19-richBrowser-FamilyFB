@@ -1,0 +1,48 @@
+{
+  "family": [
+    {
+      "name": "Tammy Bunch",
+      "age": 56,
+      "gender": "female",
+      "skills": [
+        "cooking",
+        "gardening",
+        "shopping",
+        "tanning"
+      ]
+    },
+    {
+      "name": "Rick Bunch",
+      "age": 55,
+      "gender": "male",
+      "skills": [
+        "whiskey collection",
+        "buisness savvy",
+        "jokes",
+        "yard work"
+      ]
+    },
+    {
+      "name": "Courtney Able",
+      "age": 30,
+      "gender": "female",
+      "skills": [
+        "argumenative",
+        "jokes",
+        "stylish",
+        "bourbon connoisseur"
+      ]
+    },
+    {
+      "name": "Cody Howard",
+      "age": 27,
+      "gender": "male",
+      "skills": [
+        "horse riding",
+        "shooting",
+        "veterinary",
+        "tall"
+      ]
+    }
+  ]
+}
